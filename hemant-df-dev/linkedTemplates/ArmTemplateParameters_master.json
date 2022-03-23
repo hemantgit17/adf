@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "hemant-df-dev"
+		},
+		"AzureBlobStoragelsdev_connectionString": {
+			"value": ""
+		},
+		"AzureKeyVaultLSdev_properties_typeProperties_baseUrl": {
+			"value": "https://hemantdevkeyvalut.vault.azure.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
