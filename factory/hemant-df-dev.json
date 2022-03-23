@@ -1,0 +1,9 @@
+{
+	"name": "hemant-df-dev",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fab39054-c2c4-45a4-ae24-23b72fddb693",
+		"tenantId": "daf570fe-77f6-43bd-b0f6-4e042add8c48"
+	}
+}
